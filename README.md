@@ -4,3 +4,5 @@ Prep W Lervis is an AI-powered interview preparation assistant designed to help 
 # This app impliments RAG, Chat Agent and Voice Assitant interview
 
 ## RAG and Chat Agent
+
+![Alt Text](https://github.com/Utkarsh13tiwari/Prep-W-Lervis/blob/main/UI%20Agent%201)
